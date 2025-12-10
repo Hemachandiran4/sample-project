@@ -3,6 +3,6 @@ class base{
     {
         System.out.println("hello java");
         System.out.print("ghy");
-        System.out.print("hemu");
+        System.out.print("hem");
     }
 }
